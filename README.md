@@ -14,4 +14,6 @@ This repo contains Python scripts that can be used to analyze and report on task
 
 Current maintainers:
 - Rod Castillo ([@castillorm](https://github.com/castillorm/))
+
 - Christopher Kon([@konster77](https://github.com/konster77/)) 
+- Logan Lawson ([@lawsonlo1](https://github.com/lawsonlo1/))
