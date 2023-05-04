@@ -2,7 +2,7 @@ import pandas as pd
 
 # 1. Open the .csv file using Pandas into a DF
 # dataframe = pd.read_csv('../data/addresses.csv')
-dataframe = pd.read_csv('../data/my_clickup_data.csv')
+dataframe = pd.read_csv('../data/addresses.csv')
 print(dataframe)
 # 2. Create a dataset that includes addresses from SD
 # rslt_df = dataframe[dataframe['state'] == 'SD'] 
